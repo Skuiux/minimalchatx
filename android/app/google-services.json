@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641463151095",
+    "project_id": "minimalchatx",
+    "storage_bucket": "minimalchatx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641463151095:android:ebaa74fc29e79996fa26f2",
+        "android_client_info": {
+          "package_name": "com.skuix.minimalchatx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASNVwNXEaYhQf7kvB1DlQT_lgs3o7lq3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
